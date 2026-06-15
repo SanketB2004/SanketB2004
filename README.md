@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Bhosale</h1>
 <h3 align="center">Java Developer | Passionate about building efficient and scalable applications | Open Source Enthusiast</h3>
 
-- 🌱 I’m currently learning **Javascript , React.js**
+- 🌱 I’m currently learning **Java , DSA**
 
 - 💬 Ask me about **react**
 
