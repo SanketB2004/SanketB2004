@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java , DSA**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Java Developer**
 
 - 📫 How to reach me **sanketbhosale11575@gmail.com**
 
