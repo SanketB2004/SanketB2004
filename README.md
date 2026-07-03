@@ -25,6 +25,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketb2004&show_icons=true&locale=en&layout=compact" alt="sanketb2004" /></p>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketb2004&show_icons=true&locale=en" alt="sanketb2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketb2004&" alt="sanketb2004" /></p>
