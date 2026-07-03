@@ -90,9 +90,7 @@ Java Full Stack Developer | Spring Boot | React | Open Source Enthusiast
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SanketB2004&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SanketB2004&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
