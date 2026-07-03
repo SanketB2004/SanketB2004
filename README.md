@@ -118,7 +118,7 @@ Java Full Stack Developer | Spring Boot | React | Open Source Enthusiast
 
 ## 💻 Quote
 
-<p align="center">
+<!-- <p align="center">
 
 > "Code. Learn. Build. Repeat."
 
@@ -134,4 +134,36 @@ Java Full Stack Developer | Spring Boot | React | Open Source Enthusiast
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
-</h3>
+</h3> -->
+
+<div align="center">
+
+## 💭 Developer Mindset
+
+> ### *"Turning ideas into code, one commit at a time."* 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Code+%F0%9F%92%BB;Learn+%F0%9F%93%9A;Build+%F0%9F%9A%80;Repeat+%E2%99%BE" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=SanketB2004&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for Visiting!
+
+⭐ **If you like my work, don't forget to Star my repositories!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7F5AF0&height=120&section=footer"/>
+
+</div>
