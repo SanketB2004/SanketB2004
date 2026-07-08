@@ -1,169 +1,86 @@
-<h1 align="center">Hi 👋, I'm Sanket Bhosale</h1>
+<h1 align="center">
+Hi 👋 I'm Sanket Bhosale
+</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Spring Boot | React | Open Source Enthusiast
+☕ Java Backend Developer | Spring Boot | React | REST APIs | SQL
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Java+Developer;Spring+Boot+Learner;React+Developer;Open+Source+Enthusiast;Always+Learning+New+Things+🚀" />
-</p>
+Building Scalable Java Applications 🚀
+</p><p align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;React+Learner;Open+Source+Contributor;Always+Learning+🚀"/>
 
-## 👨‍💻 About Me
-
-- 🎓 Computer Science Student
-- ☕ Passionate Java Developer
-- 🌱 Currently learning **Spring Boot, React.js**
-- 💻 Love building scalable applications
-- 🚀 Exploring Open Source
-- 📫 **sanketbhosale11575@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+</p><p align="center">
 
 <a href="https://linkedin.com/in/sanket-bhosale-78b775318">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:sanketbhosale11575@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/SanketB2004">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://instagram.com/sanket_bhosale2004">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://twitter.com/sanket932295">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+</p>## 🚀 About Me
 
-</p>
+💻 Java Backend Developer
 
----
+🌱 Learning
 
-## 🛠 Tech Stack
+- Spring Boot
+- React.js
+- Microservices
+- Docker
 
-<p align="center">
+🎯 Goal
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,mysql,git,github,linux,vscode" />
+Become a Software Engineer at a Product Based Company.
 
-</p>
+📫 Email
 
----
+sanketbhosale11575@gmail.com<p align="center">
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,linux,docker,postman,vscode"/>
 
-<p align="center">
+</p><p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanketB2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanketB2004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketB2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketB2004&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p><p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=SanketB2004&theme=tokyonight&hide_border=true"/>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanketB2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
+</p><p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanketB2004&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</p><p align="center">
 
----
+<img src="https://raw.githubusercontent.com/SanketB2004/SanketB2004/output/github-contribution-grid-snake-dark.svg"/>
 
-## 🏆 GitHub Trophies
+</p><p align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanketB2004" />
-</p>
----
+<img src="https://github-profile-trophy.vercel.app/?username=SanketB2004&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
 
-## 🚀 Featured Projects
+</p><p align="center">
 
-| Project | Description |
-|---------|-------------|
-| 🏦 Banking System | Java OOP Project |
-| 👨‍🎓 Student Management | CRUD Application |
-| 🌦 Weather App | React + API |
-| 💰 Expense Tracker | Java + MySQL |
-| 🌐 Portfolio Website | HTML CSS JS |
+<img src="https://komarev.com/ghpvc/?username=SanketB2004&style=for-the-badge&color=blue"/>
 
----
+</p><h3 align="center">
 
-## 🐍 Contribution Snake
+⭐ Thanks for Visiting ⭐
 
-<div align="center">
+Happy Coding 🚀
 
-<img src="https://profile-readme-generator.com/assets/snake.svg"/>
-
-</div>
-
----
-
-## 💻 Quote
-
-<!-- <p align="center">
-
-> "Code. Learn. Build. Repeat."
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SanketB2004&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
-
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3> -->
-
-<div align="center">
-
-## 💭 Developer Mindset
-
-> ### *"Turning ideas into code, one commit at a time."* 🚀
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Code+%F0%9F%92%BB;Learn+%F0%9F%93%9A;Build+%F0%9F%9A%80;Repeat+%E2%99%BE" />
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=SanketB2004&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for Visiting!
-
-⭐ **If you like my work, don't forget to Star my repositories!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7F5AF0&height=120&section=footer"/>
-
-</div>
+</h3>
