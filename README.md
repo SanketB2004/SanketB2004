@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FFD700;">Sanket Bhosale</span></h1>
 
-<h3 align="center">💻 Java Backend Developer • Spring Boot • REST APIs • React</h3>
+<h3 align="center">💻 Java Backend Developer • Spring Boot • REST APIs • React • Front-End</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=850&color=FFD700&multicolor=true&lines=💛+Java+Backend+Developer;💜+Spring+Boot+Developer;💙+REST+API+Developer;💚+Building+Scalable+Applications;❤️+Open+Source+Enthusiast"/>
