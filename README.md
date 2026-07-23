@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 💛 Passionate **Java Backend Developer** focused on building scalable applications.
-- 🌱 Currently learning **Spring Boot, React, Docker, Microservices & Cloud**.
+- 🌱 Currently learning **Spring Boot, React, Docker, Microservices .
 - ⚡ Strong foundation in **Java, OOP, JDBC, MySQL & REST APIs**.
 - 🎯 Open to **Java Backend / Full Stack Developer** opportunities.
 
