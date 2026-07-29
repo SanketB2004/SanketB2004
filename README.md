@@ -41,12 +41,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanketB2004&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FF1493&point=39D353"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
